@@ -1,6 +1,5 @@
-最近在老铁的推荐下购买了一本《Python编程之美：最佳实践指南》，据说是Python用户的一本百科式学习指南。对Python进阶的学习有很好的指导作用。此书是上月出版的中文译本，原书名是"Hitchhiker's Guide to Python"，由Python社区的大神，requests库的作者Kenneth Reitz发起并组织编写，秉承“for humans”的理念，质量必然精品啊。
 
-由于我购买的书迟迟不发货，期间偶然发现了这个网址：https://pythonguidecn.readthedocs.io/zh/latest/ ，原来这本书早已有了中文在线翻译文档，而且总共有七国语言的翻译版，马上手痒了起来，下手就一个字：爬！为了以后学习方便，做成PDF电子书先睹为快。
+网址：https://pythonguidecn.readthedocs.io/zh/latest/
 
 **准备工作**
 
@@ -183,4 +182,4 @@ html_template = """
 相信做过这个爬虫之后，以后想要网上任何的官方文档、教程，都能爬下来制作PDF电子书。想要廖大神的Python教程？爬！想要Git教程？爬！想要刘江的Django教程？爬！
 
 ---
-完整代码可以上GitHub:下载，或点击底部[阅读原文]。关注本公众号「Python手记」，后台回复：Python指南 即可免费获取，不套路。之后也会送出其他教程，敬请期待。
+关注本公众号「Python手记」，后台回复：Python指南 即可免费获取，不套路。之后也会送出其他教程，敬请期待。
